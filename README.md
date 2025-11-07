@@ -1,1 +1,2 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wOo27OxG)
+
+This is homework 3 for STAT 159. Several function sin the LOSC Event Tutorial notebook are moved into a ligotools package for clarity, which is an installable package. This repository is set up as a MyST repo that makes a web page for the LOSC EVENT TUTORIAL notebook and also contains a binder link for the build. Website is deployed to Github Pages.
